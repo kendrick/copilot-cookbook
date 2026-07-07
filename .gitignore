@@ -1,3 +1,6 @@
 node_modules/
 .DS_Store
 _research/
+
+# Local-only active context (working-memory-kit)
+_working-memory/activeContext.md
