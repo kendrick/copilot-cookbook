@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "A kickoff meeting produced a pile of notes and half-assigned action items, and you need a real project brief out of it before end of day."
 uses:
   - "[[Meeting Recap and Intelligent Recap]]"

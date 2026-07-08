@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You're starting a deck from scratch and want it built from your team's actual reports and meeting notes instead of a blank template."
 uses:
   - "[[Ground a Deck in Your Work Content]]"

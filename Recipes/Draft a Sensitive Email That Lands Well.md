@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You have to tell someone something they don't want to hear (a delay, a rejection, an apology) and the wording matters more than usual."
 uses:
   - "[[Draft an Email With Copilot]]"

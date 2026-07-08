@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "A thirty-message email thread lands back in your inbox and you need to reply without rereading the whole history."
 uses:
   - "[[Summarize an Email Thread]]"

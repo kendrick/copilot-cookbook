@@ -9,7 +9,7 @@ tags: [copilot, moc]
 
 The full Microsoft 365 Copilot capability surface, organized by where it lives. Each category note links its individual feature notes. Newest capabilities (surfaced in the last ~90 days) are tagged `new: true` in their frontmatter rather than siloed off here.
 
-Looking for "how do I solve *X*"? Start from the [Plays MOC](../Plays/README.md) instead, which is organized by the problem rather than the app.
+Looking for "how do I solve *X*"? Start from the [Recipes](../Recipes/README.md) instead, which is organized by the problem rather than the app.
 
 ## In-app Copilot
 

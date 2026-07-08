@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "A meeting happened without you, and you need the decisions and action items before your next call, not the full transcript."
 uses:
   - "[[Meeting Recap and Intelligent Recap]]"

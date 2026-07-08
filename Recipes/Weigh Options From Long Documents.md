@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You need to compare several long documents, like vendor contracts or filings, against each other and don't have time to read all of them closely."
 uses:
   - "[[Open Files and PDFs in Chat]]"

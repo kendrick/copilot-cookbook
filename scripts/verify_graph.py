@@ -11,7 +11,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKIP_DIRS = {".git", "_working-memory", "scripts", ".claude", ".github", "_research"}
 SKIP_ROOT_FILES = {"CLAUDE.md", "AGENTS.md"}
 # Index / entry files legitimately have no inbound link; don't flag as orphans.
-ENTRY = {"README.md", "Surfaces/README.md", "Plays/README.md", "_sources.md"}
+ENTRY = {"README.md", "Surfaces/README.md", "Recipes/README.md", "_sources.md"}
 
 link_re = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 fence_re = re.compile(r"```.*?```", re.S)

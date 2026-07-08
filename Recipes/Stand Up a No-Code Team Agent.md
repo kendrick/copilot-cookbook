@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "Your team keeps asking the same handful of questions about the same documents, and it's not worth a developer ticket to fix."
 uses:
   - "[[Agent Builder]]"

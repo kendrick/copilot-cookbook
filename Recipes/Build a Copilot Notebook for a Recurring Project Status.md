@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You write the same project status update every week from scraps of files, meeting notes, and emails scattered across a dozen places."
 uses:
   - "[[Copilot Notebooks]]"

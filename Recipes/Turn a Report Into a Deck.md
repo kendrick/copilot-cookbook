@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You have a dense analysis document and thirty minutes before it needs to become a deck an executive will actually sit through."
 uses:
   - "[[Draft with Copilot in Word]]"

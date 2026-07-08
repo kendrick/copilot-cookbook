@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You have a customer call in twenty minutes and need the account history, not a scramble through old emails."
 uses:
   - "[[Work-Grounded Copilot Chat]]"

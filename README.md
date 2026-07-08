@@ -3,18 +3,18 @@
 A wikilinked knowledge base of Microsoft 365 Copilot. It answers two different questions:
 
 - **"What can Copilot do?"** → the feature catalog, organized by where each capability lives.
-- **"How do I get *X* done?"** → the plays, organized by the problem a user states out loud.
+- **"How do I get *X* done?"** → the recipes, organized by the problem a user states out loud.
 
 Every claim traces to a live Microsoft page, fetched 2026-07-07. It's built for Obsidian: open the vault and follow the `[[wikilinks]]`, or start from a map:
 
 - **[Copilot Features MOC](Surfaces/README.md)** — every capability, grouped by surface (Word, Excel, Chat, Agents, and the rest). Newest features are folded into their category and tagged `new: true`, not siloed.
-- **[Plays MOC](Plays/README.md)** — scenario recipes grouped by business need: analyze data, catch up on what I missed, draft from messy inputs, prep for a meeting, build a deck, automate a recurring task, research a topic.
+- **[Recipes](Recipes/README.md)** — scenario recipes grouped by business need: analyze data, catch up on what I missed, draft from messy inputs, prep for a meeting, build a deck, automate a recurring task, research a topic.
 
 ## How it's organized
 
 - **Category notes** (e.g. `Word.md`, `Copilot Chat.md`) — one per surface, each linking its feature notes.
 - **Feature notes** — one capability each, with frontmatter for tier, status (GA / Preview / Rolling out), license, and whether it's new. Named for the capability, so the filename is the wikilink.
-- **Plays** (in `Plays/`) — terse recipes that chain features, with copy-pasteable prompts and cross-app steps.
+- **Recipes** (in `Recipes/`) — terse, scenario-first notes that chain features, with copy-pasteable prompts and cross-app steps.
 - **[_sources](_sources.md)** — every source URL with its last-updated and fetch date, so you can diff on a re-run.
 
 ## Reading the frontmatter

@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You need a quick read on what's happening in a market or with a competitor, fast enough to fit before your next meeting."
 uses:
   - "[[Copilot Chat (Basic)]]"

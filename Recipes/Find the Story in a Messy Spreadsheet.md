@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "A spreadsheet lands in your inbox with inconsistent formatting and no obvious story, and you need the trends without building the formulas yourself."
 uses:
   - "[[Organize Data With Copilot]]"

@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You need a genuinely researched answer, not a quick summary, on something like competitor positioning or a relocation policy question."
 uses:
   - "[[Researcher]]"

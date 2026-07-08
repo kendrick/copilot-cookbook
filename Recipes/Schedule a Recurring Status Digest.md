@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You run the same 'what happened this week on Project X' prompt every Monday morning and want Copilot to just do it without you."
 uses:
   - "[[Scheduled Prompts and Long-Running Tasks]]"

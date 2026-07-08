@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "A task has several steps that each depend on the last (pull data, build a comparison, draft an email) and you'd rather describe the whole thing once than do it step by step yourself."
 uses:
   - "[[Copilot Cowork]]"

@@ -1,13 +1,13 @@
 ---
-title: Plays MOC
+title: Recipes
 type: moc
 fetched: 2026-07-07
-tags: [copilot, moc, plays]
+tags: [copilot, moc, recipes]
 ---
 
-# Plays MOC
+# Recipes
 
-Scenario-first recipes, grouped by the business need a user would state out loud. When someone says "I need to *do* X," start here. Each play chains the features that get it done, with copy-pasteable prompts.
+Scenario-first recipes, grouped by the business need a user would state out loud. When someone says "I need to *do* X," start here. Each recipe chains the features that get it done, with copy-pasteable prompts.
 
 For the capability reference behind these, see the [Copilot Features MOC](../Surfaces/README.md).
 

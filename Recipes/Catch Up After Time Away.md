@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You're back from vacation, leave, or a stretch of back-to-back meetings and need to know what happened without reading every email and chat yourself."
 uses:
   - "[[Work-Grounded Copilot Chat]]"

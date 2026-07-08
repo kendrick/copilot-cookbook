@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "Two roles are merging into one and you have two job descriptions to reconcile into a single posting."
 uses:
   - "[[Draft with Copilot in Word]]"

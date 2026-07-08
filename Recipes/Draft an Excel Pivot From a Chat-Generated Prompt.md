@@ -1,5 +1,5 @@
 ---
-type: play
+type: recipe
 scenario: "You know what pivot you want out of a spreadsheet but not how to ask Excel Copilot for it."
 uses:
   - "[[Work-Grounded Copilot Chat]]"
@@ -40,7 +40,7 @@ Region. Place the PivotTable on a new worksheet named "Revenue Summary."
 ```
 
 **Watch out for**
-Excel's in-app Copilot needs the Copilot add-on. Basic tier has no in-app Excel Copilot at all, so this play doesn't work if you're only licensed for Copilot Chat (Basic). The chat step that writes your prompt can run on either tier since it's not touching your actual data.
+Excel's in-app Copilot needs the Copilot add-on. Basic tier has no in-app Excel Copilot at all, so this recipe doesn't work if you're only licensed for Copilot Chat (Basic). The chat step that writes your prompt can run on either tier since it's not touching your actual data.
 
 ## Related
 [Excel](../Surfaces/Excel/README.md) · [Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Suggest Formulas in Excel](../Surfaces/Excel/Suggest%20Formulas%20in%20Excel.md) · [Find the Story in a Messy Spreadsheet](Find%20the%20Story%20in%20a%20Messy%20Spreadsheet.md)

@@ -6,7 +6,7 @@
 import os, re, glob, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RECIPES = "Plays"  # folder name for scenario recipes; update if renamed
+RECIPES = "Recipes"  # folder name for scenario recipes; update if renamed
 
 def fm(txt):
     if not txt.startswith("---"):
