@@ -31,4 +31,4 @@ The distinction between Copilot Chat (Basic) and the Copilot add-on runs through
 
 ## Refreshing it
 
-Copilot ships monthly. To update: re-fetch the pages in [\_sources](_sources.md), diff against the `fetched` dates, and fold new capabilities into their category with `new: true`. The two passes that built this — establish the full surface, then layer in the newest month — are the same two you'd repeat.
+Copilot ships monthly. Run `scripts/staleness.py` first to see what's due: overdue sources, `new` badges to retire, and features to re-check for GA. To update: re-fetch the pages in [\_sources](_sources.md), diff against the `fetched` dates, and fold new capabilities into their category with `new: true`. The two passes that built this — establish the full surface, then layer in the newest month — are the same two you'd repeat.
