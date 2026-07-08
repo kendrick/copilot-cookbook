@@ -23,7 +23,7 @@ Anyone running statistical analysis on a dataset—survey results, marketing per
 Microsoft 365 Copilot app > Agents > Analyst.[^1]
 
 **Requires**
-Microsoft 365 Copilot add-on license. Shares a combined pool of roughly 25 monthly queries with [[Researcher]].
+Microsoft 365 Copilot add-on license. Shares a combined pool of roughly 25 monthly queries with [Researcher](Researcher.md).
 
 ## Try it
 1. Open the Microsoft 365 Copilot app.
@@ -34,7 +34,7 @@ Example prompt:
 > Analyze this survey data and generate strategic recommendations, flagging any statistically significant trends.[^2]
 
 ## Related
-[[Researcher & Analyst]] · [[Researcher]] · [[Copilot Chat]]
+[Researcher & Analyst](README.md) · [Researcher](Researcher.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 [^1]: Get started with Analyst in Microsoft 365 Copilot, https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-analyst-in-microsoft-365-copilot (fetched 2026-07-07)
 [^2]: Empower your workforce with Copilot: Marketing, https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-marketing/ (fetched 2026-07-07)

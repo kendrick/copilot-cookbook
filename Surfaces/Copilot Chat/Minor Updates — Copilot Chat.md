@@ -14,6 +14,6 @@ tags: [copilot, chat, updates]
 - Chat history now scrolls infinitely instead of paginating.[^1]
 
 ## Related
-[[Copilot Chat]] · [[Choose Your AI Model]]
+[Copilot Chat](README.md) · [Choose Your AI Model](Choose%20Your%20AI%20Model.md)
 
 [^1]: Microsoft 365 Copilot release notes, https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

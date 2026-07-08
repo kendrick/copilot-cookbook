@@ -12,8 +12,8 @@ difficulty: "quick win"
 The thread has been going for two weeks, half the people are CC'd for no clear reason, and you were just added back in. You need the gist and a reply, not an afternoon.
 
 **What you'll use**
-- [[Summarize an Email Thread]] — gets you the gist and what's still open
-- [[Draft an Email With Copilot]] — turns your reply intent into a draft
+- [Summarize an Email Thread](../Surfaces/Outlook/Summarize%20an%20Email%20Thread.md) — gets you the gist and what's still open
+- [Draft an Email With Copilot](../Surfaces/Outlook/Draft%20an%20Email%20With%20Copilot.md) — turns your reply intent into a draft
 
 **Steps**
 1. Open the thread in Outlook.
@@ -34,6 +34,6 @@ Keep it short and professional.
 Basic tier includes Copilot chat in Outlook, but full thread summarization and draft assist are noticeably better with the add-on, which also unlocks work-grounding across your whole mailbox rather than just the open message.
 
 ## Related
-[[Outlook]] · [[Copilot Chat]] · [[Draft a Sensitive Email That Lands Well]]
+[Outlook](../Surfaces/Outlook/README.md) · [Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Draft a Sensitive Email That Lands Well](Draft%20a%20Sensitive%20Email%20That%20Lands%20Well.md)
 
 [^1]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)

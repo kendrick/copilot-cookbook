@@ -26,7 +26,7 @@ Microsoft 365 Copilot app or OneNote.
 Copilot or Copilot Chat license + SharePoint/OneDrive.
 
 ## Related
-[[Pages & Notebooks]] · [[Copilot Pages]] · [[Turn a Notebook Into Office Files]]
+[Pages & Notebooks](README.md) · [Copilot Pages](Copilot%20Pages.md) · [Turn a Notebook Into Office Files](Turn%20a%20Notebook%20Into%20Office%20Files.md)
 
 ---
 [^1]: Get started with Microsoft 365 Copilot Notebooks — https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-notebooks (fetched 2026-07-07)

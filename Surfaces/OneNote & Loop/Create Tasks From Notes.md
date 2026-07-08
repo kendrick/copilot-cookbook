@@ -22,6 +22,6 @@ tags: [copilot, onenote, tasks]
 
 ## Related
 
-[[OneNote & Loop]] · [[Summarize Notes in OneNote]] · [[Draft in OneNote]]
+[OneNote & Loop](README.md) · [Summarize Notes in OneNote](Summarize%20Notes%20in%20OneNote.md) · [Draft in OneNote](Draft%20in%20OneNote.md)
 
 [^1]: Create a to-do list and tasks in OneNote with Copilot — https://support.microsoft.com/en-us/office/create-a-to-do-list-and-tasks-in-onenote-with-copilot-95fdfbeb-d499-4024-9387-5416ab56a58e (fetched 2026-07-07)

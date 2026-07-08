@@ -26,6 +26,6 @@ Copilot Chat > **Agents**. Coaching agents appear alongside other prebuilt agent
 Copilot Chat (Basic), no add-on needed.
 
 ## Related
-[[Agents & Agent Builder]] · [[Agent Store]] · [[Copilot Chat]]
+[Agents & Agent Builder](README.md) · [Agent Store](Agent%20Store.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 [^1]: Agent Builder — What's new — https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/whats-new (fetched 2026-07-07)

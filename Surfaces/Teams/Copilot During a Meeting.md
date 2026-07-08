@@ -22,6 +22,6 @@ tags: [copilot, teams, meetings]
 
 ## Related
 
-[[Teams]] · [[Meeting Recap and Intelligent Recap]] · [[Copilot in Teams Calls]]
+[Teams](README.md) · [Meeting Recap and Intelligent Recap](Meeting%20Recap%20and%20Intelligent%20Recap.md) · [Copilot in Teams Calls](Copilot%20in%20Teams%20Calls.md)
 
 [^1]: Catch up on meetings with Microsoft 365 Copilot in Teams — https://support.microsoft.com/en-us/teams/copilot/catch-up-on-meetings-with-microsoft-365-copilot-in-teams (fetched 2026-07-07)

@@ -26,6 +26,6 @@ Select a mode from the model picker in the Copilot Chat composer, on either tier
 Any Microsoft 365 subscription, or the Copilot add-on.
 
 ## Related
-[[Copilot Chat]] · [[Use Claude and GPT-5.5 in Copilot]] · [[Work-Grounded Copilot Chat]]
+[Copilot Chat](README.md) · [Use Claude and GPT-5.5 in Copilot](Use%20Claude%20and%20GPT-5.5%20in%20Copilot.md) · [Work-Grounded Copilot Chat](Work-Grounded%20Copilot%20Chat.md)
 
 [^1]: Microsoft 365 Copilot overview, https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview (fetched 2026-07-07)

@@ -26,7 +26,7 @@ Configured by an admin. Once connected, sources appear in Chat, Researcher, and 
 Admin setup per connector, plus access to the underlying system.
 
 ## Related
-[[Search & Work IQ]] · [[Copilot Search]] · [[Work IQ]] · [[Researcher & Analyst]]
+[Search & Work IQ](README.md) · [Copilot Search](Copilot%20Search.md) · [Work IQ](Work%20IQ.md) · [Researcher & Analyst](../Researcher%20%26%20Analyst/README.md)
 
 ---
 [^1]: Microsoft 365 Copilot release notes — https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

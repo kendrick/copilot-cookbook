@@ -26,7 +26,7 @@ Use the Copilot icon in the left margin of an open document.
 Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 
 ## Related
-[[Word]] · [[Draft with Copilot in Word]] · [[Rewrite and Refine in Word]]
+[Word](README.md) · [Draft with Copilot in Word](Draft%20with%20Copilot%20in%20Word.md) · [Rewrite and Refine in Word](Rewrite%20and%20Refine%20in%20Word.md)
 
 [^1]: Draft and add content with Copilot in Word, Microsoft Support, https://support.microsoft.com/en-us/Word/copilot/draft-and-add-content-with-copilot-in-word (fetched 2026-07-07)
 [^2]: Microsoft 365 Copilot release notes, Microsoft Learn, https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

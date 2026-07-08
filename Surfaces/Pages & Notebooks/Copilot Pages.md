@@ -26,7 +26,7 @@ Select the pencil icon below a chat response to open it as a Page.
 Entra ID + SharePoint/OneDrive. No Copilot add-on license needed.
 
 ## Related
-[[Pages & Notebooks]] · [[Copilot Notebooks]] · [[Copilot Chat]]
+[Pages & Notebooks](README.md) · [Copilot Notebooks](Copilot%20Notebooks.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 ---
 [^1]: Get started with Microsoft 365 Copilot Pages — https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-pages (fetched 2026-07-07)

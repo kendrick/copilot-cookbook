@@ -33,7 +33,7 @@ Example prompt:
 > Summarize the main points of the latest research on AI.[^2]
 
 ## Related
-[[Copilot Chat]] · [[Work-Grounded Copilot Chat]] · [[Choose Your AI Model]]
+[Copilot Chat](README.md) · [Work-Grounded Copilot Chat](Work-Grounded%20Copilot%20Chat.md) · [Choose Your AI Model](Choose%20Your%20AI%20Model.md)
 
 [^1]: Microsoft Copilot, https://learn.microsoft.com/en-us/copilot/microsoft-copilot (fetched 2026-07-07)
 [^2]: Example prompts to try with Copilot for Microsoft 365, https://support.microsoft.com/en-us/topic/example-prompts-to-try-with-copilot-for-microsoft-365-68ca1ee5-47c3-4f60-8bab-160cc665d84f (fetched 2026-07-07)

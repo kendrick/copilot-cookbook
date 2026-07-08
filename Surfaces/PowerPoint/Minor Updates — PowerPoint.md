@@ -15,6 +15,6 @@ tags: [copilot, powerpoint, updates]
 - A new deck can now reuse and build on an existing one instead of always starting fresh.[^1]
 
 ## Related
-[[PowerPoint]] · [[Build a Presentation With Copilot]]
+[PowerPoint](README.md) · [Build a Presentation With Copilot](Build%20a%20Presentation%20With%20Copilot.md)
 
 [^1]: Microsoft 365 Copilot release notes, Microsoft Learn, https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

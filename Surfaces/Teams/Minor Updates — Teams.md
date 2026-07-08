@@ -10,8 +10,8 @@ fetched: 2026-07-07
 tags: [copilot, teams, minor-updates]
 ---
 
-No Teams-specific minor tweaks are documented in current research beyond the major features listed on [[Teams]]. Revisit once a more granular what's-new sweep is available.
+No Teams-specific minor tweaks are documented in current research beyond the major features listed on [Teams](README.md). Revisit once a more granular what's-new sweep is available.
 
 ## Related
 
-[[Teams]] · [[Copilot During a Meeting]] · [[Meeting Recap and Intelligent Recap]]
+[Teams](README.md) · [Copilot During a Meeting](Copilot%20During%20a%20Meeting.md) · [Meeting Recap and Intelligent Recap](Meeting%20Recap%20and%20Intelligent%20Recap.md)

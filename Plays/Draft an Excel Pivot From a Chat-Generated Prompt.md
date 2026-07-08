@@ -12,8 +12,8 @@ difficulty: "quick win"
 You have a workbook and a rough idea of the summary you want (revenue by region, headcount by department, whatever it is), but writing a prompt that gets Excel Copilot to build the right PivotTable on the first try is its own skill. Let Copilot Chat write that prompt for you.
 
 **What you'll use**
-- [[Work-Grounded Copilot Chat]] — describe the pivot in plain language and get back a precise Excel Copilot prompt
-- [[Create Charts and PivotTables]] — the in-app Excel feature that actually builds the PivotTable and chart
+- [Work-Grounded Copilot Chat](../Surfaces/Copilot%20Chat/Work-Grounded%20Copilot%20Chat.md) — describe the pivot in plain language and get back a precise Excel Copilot prompt
+- [Create Charts and PivotTables](../Surfaces/Excel/Create%20Charts%20and%20PivotTables.md) — the in-app Excel feature that actually builds the PivotTable and chart
 
 **Steps**
 1. Open Copilot Chat and describe your data (column names are enough) and the summary you're after.
@@ -43,7 +43,7 @@ Region. Place the PivotTable on a new worksheet named "Revenue Summary."
 Excel's in-app Copilot needs the Copilot add-on. Basic tier has no in-app Excel Copilot at all, so this play doesn't work if you're only licensed for Copilot Chat (Basic). The chat step that writes your prompt can run on either tier since it's not touching your actual data.
 
 ## Related
-[[Excel]] · [[Copilot Chat]] · [[Suggest Formulas in Excel]] · [[Find the Story in a Messy Spreadsheet]]
+[Excel](../Surfaces/Excel/README.md) · [Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Suggest Formulas in Excel](../Surfaces/Excel/Suggest%20Formulas%20in%20Excel.md) · [Find the Story in a Messy Spreadsheet](Find%20the%20Story%20in%20a%20Messy%20Spreadsheet.md)
 
 [^1]: Microsoft 365 Copilot — top 10 things to try first — https://www.microsoft.com/en-us/microsoft-365-copilot/copilot-top-10-things-to-try-first (fetched 2026-07-07)
 [^2]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)

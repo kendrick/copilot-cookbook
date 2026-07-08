@@ -13,9 +13,9 @@ difficulty: "quick win"
 You're deciding between vendors, filings, or proposals, and the honest way to do it means reading a stack of long PDFs side by side. Copilot Chat can hold all of them at once and give you a structured comparison instead of a pile of tabs.
 
 **What you'll use**
-- [[Open Files and PDFs in Chat]] — bring multiple documents into the same chat
-- [[Work-Grounded Copilot Chat]] — reasons across them together, not one at a time
-- [[Copilot Pages]] — saves the comparison somewhere your team can reference later
+- [Open Files and PDFs in Chat](../Surfaces/Copilot%20Chat/Open%20Files%20and%20PDFs%20in%20Chat.md) — bring multiple documents into the same chat
+- [Work-Grounded Copilot Chat](../Surfaces/Copilot%20Chat/Work-Grounded%20Copilot%20Chat.md) — reasons across them together, not one at a time
+- [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) — saves the comparison somewhere your team can reference later
 
 **Steps**
 1. Open the documents directly in Copilot Chat.
@@ -37,6 +37,6 @@ Flag anything unusual or risky in each.
 Open Files and PDFs in Chat is new as of 2026-07, so check that it's live in your tenant before you build a workflow around it. Getting real comparisons out of your own contracts and files, rather than generic web answers, needs work-grounded chat, which requires the Copilot add-on; Basic tier chat is web-grounded only and can't see documents you haven't explicitly attached.
 
 ## Related
-[[Copilot Chat]] · [[Pages & Notebooks]] · [[Copilot Pages]] · [[Prep for a Customer Call]]
+[Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Pages & Notebooks](../Surfaces/Pages%20%26%20Notebooks/README.md) · [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) · [Prep for a Customer Call](Prep%20for%20a%20Customer%20Call.md)
 
 [^1]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)

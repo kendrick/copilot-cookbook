@@ -26,7 +26,7 @@ An admin has to enable Cowork first; it's off by default.
 Copilot add-on (USL) + usage-based billing through Copilot Credits + admin enablement.
 
 ## Related
-[[Cowork]] · [[Scheduled Prompts and Long-Running Tasks]] · [[Agents & Agent Builder]]
+[Cowork](README.md) · [Scheduled Prompts and Long-Running Tasks](Scheduled%20Prompts%20and%20Long-Running%20Tasks.md) · [Agents & Agent Builder](../Agents%20%26%20Agent%20Builder/README.md)
 
 ---
 [^1]: Microsoft 365 Copilot Cowork — https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/ (fetched 2026-07-07)

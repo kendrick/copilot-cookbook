@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: Write a job offer letter for a sales position at Contoso. The start date is August 1st, and the salary is $60,000 per year plus bonuses
 
 ## Related
-[[Word]] · [[Ground a Draft on Your Files]] · [[Rewrite and Refine in Word]]
+[Word](README.md) · [Ground a Draft on Your Files](Ground%20a%20Draft%20on%20Your%20Files.md) · [Rewrite and Refine in Word](Rewrite%20and%20Refine%20in%20Word.md)
 
 [^1]: Draft and add content with Copilot in Word, Microsoft Support, https://support.microsoft.com/en-us/Word/copilot/draft-and-add-content-with-copilot-in-word (fetched 2026-07-07)

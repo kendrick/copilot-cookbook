@@ -22,6 +22,6 @@ tags: [copilot, teams, chat]
 
 ## Related
 
-[[Teams]] · [[Meeting Recap and Intelligent Recap]] · [[Copilot in Teams Calls]] · [[Copilot Chat Across Your Inbox]]
+[Teams](README.md) · [Meeting Recap and Intelligent Recap](Meeting%20Recap%20and%20Intelligent%20Recap.md) · [Copilot in Teams Calls](Copilot%20in%20Teams%20Calls.md) · [Copilot Chat Across Your Inbox](../Outlook/Copilot%20Chat%20Across%20Your%20Inbox.md)
 
 [^1]: Catch up on meetings with Microsoft 365 Copilot in Teams — https://support.microsoft.com/en-us/teams/copilot/catch-up-on-meetings-with-microsoft-365-copilot-in-teams (fetched 2026-07-07)

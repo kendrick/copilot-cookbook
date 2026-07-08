@@ -22,6 +22,6 @@ tags: [copilot, outlook, chat]
 
 ## Related
 
-[[Outlook]] · [[Summarize an Email Thread]] · [[Copilot in Teams Chat]] · [[Copilot Chat]]
+[Outlook](README.md) · [Summarize an Email Thread](Summarize%20an%20Email%20Thread.md) · [Copilot in Teams Chat](../Teams/Copilot%20in%20Teams%20Chat.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 [^1]: Microsoft 365 Copilot release notes — https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

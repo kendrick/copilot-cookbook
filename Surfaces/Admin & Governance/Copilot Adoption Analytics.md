@@ -26,6 +26,6 @@ Viva Insights > Copilot dashboard.
 Admin configuration; Viva Insights access.
 
 ## Related
-[[Admin & Governance]] · [[Copilot Control System]] · [[Copilot Licensing Tiers]]
+[Admin & Governance](README.md) · [Copilot Control System](Copilot%20Control%20System.md) · [Copilot Licensing Tiers](Copilot%20Licensing%20Tiers.md)
 
 [^1]: Copilot Control System — Security and governance — https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-control-system/security-governance (fetched 2026-07-07)

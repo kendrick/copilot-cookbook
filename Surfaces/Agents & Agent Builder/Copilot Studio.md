@@ -26,6 +26,6 @@ Copilot Studio (separate app/portal from the Copilot Chat experience).
 A Copilot Studio license.
 
 ## Related
-[[Agents & Agent Builder]] · [[Agent Builder]] · [[Copilot Control System]]
+[Agents & Agent Builder](README.md) · [Agent Builder](Agent%20Builder.md) · [Copilot Control System](../Admin%20%26%20Governance/Copilot%20Control%20System.md)
 
 [^1]: Copilot Studio — Fundamentals — https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio (fetched 2026-07-07)

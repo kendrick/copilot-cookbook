@@ -26,7 +26,7 @@ Microsoft 365 Copilot app > Search.
 Copilot add-on license. Connectors for third-party sources need to be configured by an admin.
 
 ## Related
-[[Search & Work IQ]] · [[Copilot Connectors]] · [[Work IQ]]
+[Search & Work IQ](README.md) · [Copilot Connectors](Copilot%20Connectors.md) · [Work IQ](Work%20IQ.md)
 
 ---
 [^1]: Microsoft 365 Copilot Search — https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-search (fetched 2026-07-07)

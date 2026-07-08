@@ -12,8 +12,8 @@ difficulty: "quick win"
 You were double-booked, or out sick, or just couldn't make it. Someone will ask what you think about a decision from that meeting within the hour. Get the recap, not the recording.
 
 **What you'll use**
-- [[Meeting Recap and Intelligent Recap]] — AI-generated summary, transcript highlights, and mentions from the Teams meeting
-- [[Work-Grounded Copilot Chat]] — for stitching together more than one missed meeting at once
+- [Meeting Recap and Intelligent Recap](../Surfaces/Teams/Meeting%20Recap%20and%20Intelligent%20Recap.md) — AI-generated summary, transcript highlights, and mentions from the Teams meeting
+- [Work-Grounded Copilot Chat](../Surfaces/Copilot%20Chat/Work-Grounded%20Copilot%20Chat.md) — for stitching together more than one missed meeting at once
 
 **Steps**
 1. Open the meeting in Teams and check the recap for decisions, action items, and open questions.
@@ -36,7 +36,7 @@ and proposed solutions.
 Intelligent Recap needs the meeting to have been recorded and transcribed, which depends on your org's meeting policy, so check before you count on it being there. The richer, AI-generated notes on top of the raw transcript need the Copilot add-on.
 
 ## Related
-[[Teams]] · [[Copilot Chat]] · [[Catch Up After Time Away]]
+[Teams](../Surfaces/Teams/README.md) · [Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Catch Up After Time Away](Catch%20Up%20After%20Time%20Away.md)
 
 [^1]: Microsoft 365 Copilot — top 10 things to try first — https://www.microsoft.com/en-us/microsoft-365-copilot/copilot-top-10-things-to-try-first (fetched 2026-07-07)
 [^2]: A day in the life of an executive — https://adoption.microsoft.com/en-us/scenario-library/executives/a-day-in-the-life-of-an-executive/ (fetched 2026-07-07)

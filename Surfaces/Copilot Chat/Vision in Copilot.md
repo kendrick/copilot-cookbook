@@ -26,6 +26,6 @@ Rolling out to Copilot Chat; availability depends on tenant and device rollout s
 Copilot Chat access. Still rolling out, so not yet available to every tenant.
 
 ## Related
-[[Copilot Chat]] · [[Open Files and PDFs in Chat]] · [[Chat Over Your Files]]
+[Copilot Chat](README.md) · [Open Files and PDFs in Chat](Open%20Files%20and%20PDFs%20in%20Chat.md) · [Chat Over Your Files](Chat%20Over%20Your%20Files.md)
 
 [^1]: Microsoft 365 Copilot release notes, https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

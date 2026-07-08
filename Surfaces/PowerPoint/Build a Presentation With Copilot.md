@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic). Le
 > Example prompt: Create a presentation about Q3 financial results for the board of directors. Include revenue trends, expense analysis, and forecast. Use a professional tone with minimal jargon.
 
 ## Related
-[[PowerPoint]] · [[Add and Organize Slides]] · [[Ground a Deck in Your Work Content]]
+[PowerPoint](README.md) · [Add and Organize Slides](Add%20and%20Organize%20Slides.md) · [Ground a Deck in Your Work Content](Ground%20a%20Deck%20in%20Your%20Work%20Content.md)
 
 [^1]: Use Copilot in PowerPoint, Microsoft Support, https://support.microsoft.com/en-us/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d (fetched 2026-07-07)

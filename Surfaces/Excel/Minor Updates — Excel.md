@@ -14,6 +14,6 @@ tags: [copilot, excel, updates]
 - Custom skills let a repeatable Excel task be saved and reused instead of re-prompted every time.[^1]
 
 ## Related
-[[Excel]] · [[Analyze Data and Surface Insights]]
+[Excel](README.md) · [Analyze Data and Surface Insights](Analyze%20Data%20and%20Surface%20Insights.md)
 
 [^1]: Get started with Copilot in Excel, Microsoft Support, https://support.microsoft.com/en-us/Excel/copilot/get-started-with-copilot-in-excel (fetched 2026-07-07)

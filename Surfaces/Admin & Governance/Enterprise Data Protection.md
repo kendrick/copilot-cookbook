@@ -26,6 +26,6 @@ No action needed. It's a standing platform guarantee, not a toggle.
 Admin configuration. Applies automatically under any Copilot license tier.
 
 ## Related
-[[Admin & Governance]] · [[Copilot Control System]] · [[Data Loss Prevention and Sensitivity Labels]]
+[Admin & Governance](README.md) · [Copilot Control System](Copilot%20Control%20System.md) · [Data Loss Prevention and Sensitivity Labels](Data%20Loss%20Prevention%20and%20Sensitivity%20Labels.md)
 
 [^1]: Microsoft 365 Copilot — Privacy — https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy (fetched 2026-07-07)

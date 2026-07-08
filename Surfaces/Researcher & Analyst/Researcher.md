@@ -23,7 +23,7 @@ Anyone doing competitive analysis, market research, or multi-source synthesis to
 Microsoft 365 Copilot app > Agents > Researcher.[^1]
 
 **Requires**
-Microsoft 365 Copilot add-on license. Shares a combined pool of roughly 25 monthly queries with [[Analyst]].
+Microsoft 365 Copilot add-on license. Shares a combined pool of roughly 25 monthly queries with [Analyst](Analyst.md).
 
 ## Try it
 1. Open the Microsoft 365 Copilot app.
@@ -34,7 +34,7 @@ Example prompt:
 > Analyze our competitors and identify industry trends that could affect our roadmap this quarter.[^2]
 
 ## Related
-[[Researcher & Analyst]] · [[Analyst]] · [[Copilot Chat]]
+[Researcher & Analyst](README.md) · [Analyst](Analyst.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 [^1]: Researcher agent in Microsoft 365 Copilot, https://learn.microsoft.com/en-us/microsoft-365/copilot/researcher-agent (fetched 2026-07-07)
 [^2]: Empower your workforce with Copilot: Sales, https://learn.microsoft.com/en-us/training/modules/empower-workforce-copilot-sales/ (fetched 2026-07-07)

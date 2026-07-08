@@ -13,9 +13,9 @@ difficulty: "quick win"
 Someone hands you a workbook: blank rows, mismatched date formats, a column that's text in some rows and numbers in others. Before you can find anything useful in it, you have to clean it up. Let Copilot do both passes.
 
 **What you'll use**
-- [[Organize Data With Copilot]] — cleans up headers, types, and duplicate rows in Excel
-- [[Analyze Data and Surface Insights]] — surfaces trends and outliers once the data is usable
-- [[Analyst]] — for statistical work Excel Copilot isn't built for, like correlations or forecasting
+- [Organize Data With Copilot](../Surfaces/Excel/Organize%20Data%20With%20Copilot.md) — cleans up headers, types, and duplicate rows in Excel
+- [Analyze Data and Surface Insights](../Surfaces/Excel/Analyze%20Data%20and%20Surface%20Insights.md) — surfaces trends and outliers once the data is usable
+- [Analyst](../Surfaces/Researcher%20%26%20Analyst/Analyst.md) — for statistical work Excel Copilot isn't built for, like correlations or forecasting
 
 **Steps**
 1. Open the workbook and ask Excel Copilot to clean and organize the data.
@@ -41,7 +41,7 @@ know about. Where's revenue concentrated? What's changed month over month?
 Organize Data With Copilot and Analyze Data and Surface Insights are both in-app Excel features and need the Copilot add-on. Analyst is a separate agent with roughly 25 monthly queries shared with Researcher, so save it for questions that actually need statistical modeling rather than a quick trend check.
 
 ## Related
-[[Excel]] · [[Researcher & Analyst]] · [[Draft an Excel Pivot From a Chat-Generated Prompt]]
+[Excel](../Surfaces/Excel/README.md) · [Researcher & Analyst](../Surfaces/Researcher%20%26%20Analyst/README.md) · [Draft an Excel Pivot From a Chat-Generated Prompt](Draft%20an%20Excel%20Pivot%20From%20a%20Chat-Generated%20Prompt.md)
 
 [^1]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)
 [^2]: Get started with Analyst in Microsoft 365 Copilot — https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-analyst-in-microsoft-365-copilot (fetched 2026-07-07)

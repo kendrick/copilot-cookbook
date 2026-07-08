@@ -26,6 +26,6 @@ Attach a file to the Copilot Chat conversation, then ask about it. Available on 
 Any Microsoft 365 subscription for Basic access, or the Copilot add-on for priority processing.
 
 ## Related
-[[Copilot Chat]] · [[Copilot Chat (Basic)]] · [[Work-Grounded Copilot Chat]] · [[Open Files and PDFs in Chat]]
+[Copilot Chat](README.md) · [Copilot Chat (Basic)](Copilot%20Chat%20%28Basic%29.md) · [Work-Grounded Copilot Chat](Work-Grounded%20Copilot%20Chat.md) · [Open Files and PDFs in Chat](Open%20Files%20and%20PDFs%20in%20Chat.md)
 
 [^1]: Copilot overview, https://learn.microsoft.com/en-us/copilot/overview (fetched 2026-07-07)

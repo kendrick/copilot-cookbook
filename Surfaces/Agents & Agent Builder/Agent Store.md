@@ -27,6 +27,6 @@ Any Copilot user browsing for a ready-made agent, and admins curating which agen
 Copilot Chat (Basic), available broadly, though admins can gate specific agents via Copilot Control System.
 
 ## Related
-[[Agents & Agent Builder]] · [[Agent Builder]] · [[Coaching Agents]] · [[Copilot Control System]]
+[Agents & Agent Builder](README.md) · [Agent Builder](Agent%20Builder.md) · [Coaching Agents](Coaching%20Agents.md) · [Copilot Control System](../Admin%20%26%20Governance/Copilot%20Control%20System.md)
 
 [^1]: Agent Store — https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-agent-store (fetched 2026-07-07)

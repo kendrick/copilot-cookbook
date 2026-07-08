@@ -1,50 +1,64 @@
 #!/usr/bin/env python3
-# Graph-integrity check for the vault: reports broken wikilinks and orphan notes.
-# Root derives from this file's location (scripts/ lives under the repo root), so
-# it survives a repo rename — an earlier copy hardcoded the old path and broke.
-import os, re, glob, collections
+# Graph-integrity check: reports broken markdown links and orphan notes across
+# the nested vault. The vault moved from name-resolved [[wikilinks]] to
+# path-resolved [md](links), so this validates that every relative link target
+# actually exists on disk. Root derives from this file's location so a repo
+# rename can't break it.
+import os, re, sys, urllib.parse, collections
 
-# Scaffolding/meta docs that live at the repo root but aren't part of the vault
-# graph — they carry illustrative [[placeholders]] and shouldn't count as notes.
-SKIP = {"CLAUDE", "AGENTS", "PROMPT_INITIAL", "PROMPT_HANDOFF"}
-root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-files = [f for f in glob.glob(os.path.join(root, "*.md")) + glob.glob(os.path.join(root, "Plays", "*.md"))
-         if os.path.basename(f)[:-3] not in SKIP]
-# basename without .md -> canonical note name
-names = set()
-for f in files:
-    b = os.path.basename(f)[:-3]
-    names.add(b)
-link_re = re.compile(r"\[\[([^\]]+)\]\]")
-code_re = re.compile(r"`[^`]*`")  # strip inline-code so prose examples like `[[wikilinks]]` don't read as links
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Non-vault trees and root scaffolding docs are not part of the link graph.
+SKIP_DIRS = {".git", "_working-memory", "scripts", ".claude", ".github", "_research"}
+SKIP_ROOT_FILES = {"CLAUDE.md", "AGENTS.md"}
+# Index / entry files legitimately have no inbound link; don't flag as orphans.
+ENTRY = {"README.md", "Surfaces/README.md", "Plays/README.md", "_sources.md"}
+
+link_re = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
+fence_re = re.compile(r"```.*?```", re.S)
+inline_re = re.compile(r"`[^`]*`")
+
+def vault_files():
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in SKIP_DIRS]
+        for fn in filenames:
+            if not fn.endswith(".md"):
+                continue
+            full = os.path.join(dirpath, fn)
+            rel = os.path.relpath(full, ROOT)
+            if os.path.dirname(rel) == "" and fn in SKIP_ROOT_FILES:
+                continue
+            yield full, rel
+
+files = list(vault_files())
 inbound = collections.Counter()
-broken = collections.defaultdict(list)
-for f in files:
-    txt = code_re.sub("", open(f, encoding="utf-8").read())
-    src = os.path.basename(f)[:-3]
-    for m in link_re.findall(txt):
-        target = m.split("|")[0].split("#")[0].strip()
-        if target == "": continue
-        if target in names:
-            if target != src:
-                inbound[target] += 1
+broken = []
+for full, rel in files:
+    txt = open(full, encoding="utf-8").read()
+    txt = inline_re.sub("", fence_re.sub("", txt))  # ignore links inside code
+    src_dir = os.path.dirname(full)
+    for target in link_re.findall(txt):
+        t = target.strip().split("#", 1)[0]
+        if not t or t.startswith(("http://", "https://", "mailto:")):
+            continue
+        dec = urllib.parse.unquote(t)
+        dest = os.path.normpath(os.path.join(src_dir, dec))
+        if os.path.isfile(dest):
+            drel = os.path.relpath(dest, ROOT)
+            if drel != rel:
+                inbound[drel] += 1
         else:
-            broken[src].append(target)
-print("=== TOTAL notes:", len(names))
+            broken.append((rel, target))
+
+print(f"=== TOTAL vault notes: {len(files)}")
 print("\n=== BROKEN LINKS (target file missing) ===")
-nb = 0
-for src, tgts in sorted(broken.items()):
-    for t in tgts:
-        print(f"  [{src}] -> [[{t}]]"); nb += 1
-if nb == 0: print("  none")
-print(f"  total broken: {nb}")
-# Orphans: files with zero inbound (exclude MOCs, README, _sources)
-exclude = {"Copilot Features MOC", "Plays MOC", "README", "_sources"}
-print("\n=== ORPHANS (no inbound wikilink) ===")
-no = 0
-for n in sorted(names):
-    if n in exclude: continue
-    if inbound[n] == 0:
-        print("  " + n); no += 1
-if no == 0: print("  none")
-print(f"  total orphans: {no}")
+for src, t in sorted(broken):
+    print(f"  [{src}] -> ({t})")
+print("  none" if not broken else f"  total broken: {len(broken)}")
+
+print("\n=== ORPHANS (no inbound link) ===")
+orphans = [rel for _, rel in files if rel not in ENTRY and inbound[rel] == 0]
+for o in sorted(orphans):
+    print(f"  {o}")
+print("  none" if not orphans else f"  total orphans: {len(orphans)}")
+
+sys.exit(1 if broken or orphans else 0)

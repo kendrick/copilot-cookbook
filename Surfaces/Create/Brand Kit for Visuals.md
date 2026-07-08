@@ -26,7 +26,7 @@ Applied automatically when generating visuals in Copilot chat, once an admin has
 Org-level brand kit configuration, set by an admin.
 
 ## Related
-[[Create]] · [[Create in the Copilot App]] · [[PowerPoint]]
+[Create](README.md) · [Create in the Copilot App](Create%20in%20the%20Copilot%20App.md) · [PowerPoint](../PowerPoint/README.md)
 
 ---
 [^1]: What's New in Microsoft 365 Copilot — June 2026 — https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%e2%80%99s-new-in-microsoft-365-copilot--june-2026/4529572 (fetched 2026-07-07)

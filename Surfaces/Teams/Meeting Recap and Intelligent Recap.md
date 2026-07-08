@@ -31,6 +31,6 @@ tags: [copilot, teams, meetings, recap]
 
 ## Related
 
-[[Teams]] · [[Copilot During a Meeting]] · [[Copilot in Teams Chat]]
+[Teams](README.md) · [Copilot During a Meeting](Copilot%20During%20a%20Meeting.md) · [Copilot in Teams Chat](Copilot%20in%20Teams%20Chat.md)
 
 [^1]: Catch up on meetings with Microsoft 365 Copilot in Teams — https://support.microsoft.com/en-us/teams/copilot/catch-up-on-meetings-with-microsoft-365-copilot-in-teams (fetched 2026-07-07)

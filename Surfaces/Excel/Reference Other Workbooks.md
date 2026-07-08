@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: Import Q1 data from archive.xlsx
 
 ## Related
-[[Excel]] · [[Organize Data With Copilot]] · [[Agent Mode in Excel]]
+[Excel](README.md) · [Organize Data With Copilot](Organize%20Data%20With%20Copilot.md) · [Agent Mode in Excel](Agent%20Mode%20in%20Excel.md)
 
 [^1]: Get started with Copilot in Excel, Microsoft Support, https://support.microsoft.com/en-us/Excel/copilot/get-started-with-copilot-in-excel (fetched 2026-07-07)

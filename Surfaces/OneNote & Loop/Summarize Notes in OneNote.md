@@ -22,6 +22,6 @@ tags: [copilot, onenote, summarization]
 
 ## Related
 
-[[OneNote & Loop]] · [[Create Tasks From Notes]] · [[Draft in OneNote]]
+[OneNote & Loop](README.md) · [Create Tasks From Notes](Create%20Tasks%20From%20Notes.md) · [Draft in OneNote](Draft%20in%20OneNote.md)
 
 [^1]: Copilot in OneNote — https://support.microsoft.com/en-us/copilot-onenote (fetched 2026-07-07)

@@ -20,7 +20,7 @@ Smaller agent-platform tweaks that don't warrant their own note but are worth kn
 - Preview APIs (April 2026) for agent management: Package Management API, Agent Registration API, Copilot Policy Settings API.[^2]
 
 ## Related
-[[Agents & Agent Builder]] · [[Agent Store]] · [[Copilot Control System]]
+[Agents & Agent Builder](README.md) · [Agent Store](Agent%20Store.md) · [Copilot Control System](../Admin%20%26%20Governance/Copilot%20Control%20System.md)
 
 [^1]: Agent Builder — What's new — https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/whats-new (fetched 2026-07-07)
 [^2]: Agents admin guide — https://learn.microsoft.com/en-us/copilot/microsoft-365/agent-essentials/m365-agents-admin-guide (fetched 2026-07-07)

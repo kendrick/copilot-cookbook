@@ -23,10 +23,10 @@ Business users and power users who want a scoped, knowledge-grounded assistant w
 Copilot Chat > Agents > **Create an agent**, or start from a template.
 
 **Requires**
-Copilot add-on, or Copilot Chat pay-as-you-go, or a Copilot Studio license. For agents that need to act autonomously or reach beyond declarative Q&A, step up to [[Copilot Studio]].
+Copilot add-on, or Copilot Chat pay-as-you-go, or a Copilot Studio license. For agents that need to act autonomously or reach beyond declarative Q&A, step up to [Copilot Studio](Copilot%20Studio.md).
 
 ## Related
-[[Agents & Agent Builder]] · [[Agent Store]] · [[Copilot Studio]] · [[Coaching Agents]]
+[Agents & Agent Builder](README.md) · [Agent Store](Agent%20Store.md) · [Copilot Studio](Copilot%20Studio.md) · [Coaching Agents](Coaching%20Agents.md)
 
 [^1]: Agent Builder — Build agents — https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-build-agents (fetched 2026-07-07)
 [^2]: Agent Builder — What's new — https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/whats-new (fetched 2026-07-07)

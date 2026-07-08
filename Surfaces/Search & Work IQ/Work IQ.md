@@ -26,7 +26,7 @@ REST, MCP, or A2A APIs; also underpins in-app Agent Mode grounding.
 Admin configuration; developer access for direct API use.
 
 ## Related
-[[Search & Work IQ]] · [[Copilot Search]] · [[Copilot Connectors]] · [[Agents & Agent Builder]]
+[Search & Work IQ](README.md) · [Copilot Search](Copilot%20Search.md) · [Copilot Connectors](Copilot%20Connectors.md) · [Agents & Agent Builder](../Agents%20%26%20Agent%20Builder/README.md)
 
 ---
 [^1]: Work IQ APIs — https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/ (fetched 2026-07-07)

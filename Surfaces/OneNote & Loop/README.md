@@ -2,14 +2,14 @@
 
 Copilot in OneNote summarizes and drafts notes — typed, handwritten, or recorded. Copilot in Loop is mid-transition as Microsoft consolidates its integrations into Copilot Pages.
 
-- [[Summarize Notes in OneNote]]
-- [[Create Tasks From Notes]]
-- [[Draft in OneNote]]
-- [[Copilot in Loop]]
+- [Summarize Notes in OneNote](Summarize%20Notes%20in%20OneNote.md)
+- [Create Tasks From Notes](Create%20Tasks%20From%20Notes.md)
+- [Draft in OneNote](Draft%20in%20OneNote.md)
+- [Copilot in Loop](Copilot%20in%20Loop.md)
 
 ## Related categories
 
-[[Outlook]] · [[Teams]] · [[Pages & Notebooks]]
+[Outlook](../Outlook/README.md) · [Teams](../Teams/README.md) · [Pages & Notebooks](../Pages%20%26%20Notebooks/README.md)
 
 [^1]: Copilot in OneNote — https://support.microsoft.com/en-us/copilot-onenote (fetched 2026-07-07)
 [^2]: Create a to-do list and tasks in OneNote with Copilot — https://support.microsoft.com/en-us/office/create-a-to-do-list-and-tasks-in-onenote-with-copilot-95fdfbeb-d499-4024-9387-5416ab56a58e (fetched 2026-07-07)

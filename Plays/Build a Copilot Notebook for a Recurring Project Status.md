@@ -14,10 +14,10 @@ difficulty: "setup needed"
 Every recurring status update starts from zero: dig up the files, remember what was said in Tuesday's standup, find last week's write-up to see what changed. A Notebook fixes that by giving the project a single place that accumulates everything relevant, so the status update becomes a prompt against material that's already there instead of a fresh research pass.
 
 **What you'll use**
-- [[Copilot Notebooks]] — the persistent reference library that holds everything for the project
-- [[Copilot Pages]] — feeds in prior status write-ups as a source
-- [[Meeting Recap and Intelligent Recap]] — the Teams meeting notes you'll keep adding week over week
-- [[Turn a Notebook Into Office Files]] — exports the status as a document once it's written
+- [Copilot Notebooks](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Notebooks.md) — the persistent reference library that holds everything for the project
+- [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) — feeds in prior status write-ups as a source
+- [Meeting Recap and Intelligent Recap](../Surfaces/Teams/Meeting%20Recap%20and%20Intelligent%20Recap.md) — the Teams meeting notes you'll keep adding week over week
+- [Turn a Notebook Into Office Files](../Surfaces/Pages%20%26%20Notebooks/Turn%20a%20Notebook%20Into%20Office%20Files.md) — exports the status as a document once it's written
 
 **Steps**
 1. In the M365 Copilot app, create a new Notebook for the project.
@@ -41,7 +41,7 @@ changed.
 Notebooks require a Copilot or Copilot Chat license plus SharePoint or OneDrive access; the underlying feature is available even on Chat-only licensing, but the update quality tracks how much of your work data the license lets it ground on, so it's noticeably stronger on the full add-on. The three-column layout is a 2026-06 change, so training material or screenshots from before then won't match what you see.
 
 ## Related
-[[Pages & Notebooks]] · [[Copilot Pages]] · [[Teams]] · [[Prep for a Customer Call]]
+[Pages & Notebooks](../Surfaces/Pages%20%26%20Notebooks/README.md) · [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) · [Teams](../Surfaces/Teams/README.md) · [Prep for a Customer Call](Prep%20for%20a%20Customer%20Call.md)
 
 [^1]: Get started with Microsoft 365 Copilot Notebooks — https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-notebooks (fetched 2026-07-07)
 [^2]: How Microsoft 365 Copilot Notebooks works — https://support.microsoft.com/en-us/microsoft-365-copilot/how-microsoft-365-copilot-notebooks-works (fetched 2026-07-07)

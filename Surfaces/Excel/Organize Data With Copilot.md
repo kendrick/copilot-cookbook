@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: Apply conditional formatting to highlight values over 1000
 
 ## Related
-[[Excel]] · [[Suggest Formulas in Excel]] · [[Reference Other Workbooks]]
+[Excel](README.md) · [Suggest Formulas in Excel](Suggest%20Formulas%20in%20Excel.md) · [Reference Other Workbooks](Reference%20Other%20Workbooks.md)
 
 [^1]: Get started with Copilot in Excel, Microsoft Support, https://support.microsoft.com/en-us/Excel/copilot/get-started-with-copilot-in-excel (fetched 2026-07-07)

@@ -30,7 +30,7 @@ M365 admin center > Billing > Licenses, or Copilot Control System for per-group 
 Admin configuration to assign and manage licenses.
 
 ## Related
-[[Admin & Governance]] · [[Copilot Control System]] · [[Enterprise Data Protection]] · [[Copilot Chat]]
+[Admin & Governance](README.md) · [Copilot Control System](Copilot%20Control%20System.md) · [Enterprise Data Protection](Enterprise%20Data%20Protection.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 [^1]: Microsoft 365 Copilot service description — https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/microsoft-365-copilot (fetched 2026-07-07)
 [^2]: Agents admin guide — https://learn.microsoft.com/en-us/copilot/microsoft-365/agent-essentials/m365-agents-admin-guide (fetched 2026-07-07)

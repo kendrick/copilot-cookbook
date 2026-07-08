@@ -26,7 +26,7 @@ Enabled by admins in the Copilot Control System, per user or group. Once enabled
 Microsoft 365 Copilot add-on license, plus admin opt-in for the specific model.
 
 ## Related
-[[Copilot Chat]] · [[Choose Your AI Model]] · [[Work-Grounded Copilot Chat]] · [[Admin & Governance]]
+[Copilot Chat](README.md) · [Choose Your AI Model](Choose%20Your%20AI%20Model.md) · [Work-Grounded Copilot Chat](Work-Grounded%20Copilot%20Chat.md) · [Admin & Governance](../Admin%20%26%20Governance/README.md)
 
 [^1]: What's new in Microsoft 365 Copilot — June 2026, https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%e2%80%99s-new-in-microsoft-365-copilot--june-2026/4529572 (fetched 2026-07-07)
 [^2]: What's new in Microsoft 365 Copilot — May 2026, https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what%E2%80%99s-new-in-microsoft-365-copilot--may-2026/4522010 (fetched 2026-07-07)

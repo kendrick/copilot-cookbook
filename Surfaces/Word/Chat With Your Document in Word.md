@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: What are the risks mentioned in the document?
 
 ## Related
-[[Word]] · [[Ground a Draft on Your Files]] · [[Audio Overview in Word]]
+[Word](README.md) · [Ground a Draft on Your Files](Ground%20a%20Draft%20on%20Your%20Files.md) · [Audio Overview in Word](Audio%20Overview%20in%20Word.md)
 
 [^1]: Draft and add content with Copilot in Word, Microsoft Support, https://support.microsoft.com/en-us/Word/copilot/draft-and-add-content-with-copilot-in-word (fetched 2026-07-07)

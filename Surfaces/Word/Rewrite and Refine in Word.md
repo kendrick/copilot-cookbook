@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: Fine tune this draft to be more concise
 
 ## Related
-[[Word]] · [[Draft with Copilot in Word]] · [[Chat With Your Document in Word]]
+[Word](README.md) · [Draft with Copilot in Word](Draft%20with%20Copilot%20in%20Word.md) · [Chat With Your Document in Word](Chat%20With%20Your%20Document%20in%20Word.md)
 
 [^1]: Draft and add content with Copilot in Word, Microsoft Support, https://support.microsoft.com/en-us/Word/copilot/draft-and-add-content-with-copilot-in-word (fetched 2026-07-07)

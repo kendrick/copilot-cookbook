@@ -22,6 +22,6 @@ tags: [copilot, outlook, coaching]
 
 ## Related
 
-[[Outlook]] · [[Draft an Email With Copilot]] · [[Summarize an Email Thread]]
+[Outlook](README.md) · [Draft an Email With Copilot](Draft%20an%20Email%20With%20Copilot.md) · [Summarize an Email Thread](Summarize%20an%20Email%20Thread.md)
 
 [^1]: Get email coaching with Copilot in Outlook — https://support.microsoft.com/en-us/office/get-email-coaching-with-copilot-in-outlook-91a3cd56-1586-4a31-85c7-2eb8cdb02405 (fetched 2026-07-07)

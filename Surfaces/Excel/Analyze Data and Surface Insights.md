@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: What products have declining sales?
 
 ## Related
-[[Excel]] · [[Suggest Formulas in Excel]] · [[Create Charts and PivotTables]]
+[Excel](README.md) · [Suggest Formulas in Excel](Suggest%20Formulas%20in%20Excel.md) · [Create Charts and PivotTables](Create%20Charts%20and%20PivotTables.md)
 
 [^1]: Get started with Copilot in Excel, Microsoft Support, https://support.microsoft.com/en-us/Excel/copilot/get-started-with-copilot-in-excel (fetched 2026-07-07)

@@ -26,6 +26,6 @@ Not yet documented in detail beyond availability in Word's Copilot surface.
 Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 
 ## Related
-[[Word]] · [[Chat With Your Document in Word]] · [[Copilot Edits Your Document]]
+[Word](README.md) · [Chat With Your Document in Word](Chat%20With%20Your%20Document%20in%20Word.md) · [Copilot Edits Your Document](Copilot%20Edits%20Your%20Document.md)
 
 [^1]: Microsoft 365 Copilot release notes, Microsoft Learn, https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

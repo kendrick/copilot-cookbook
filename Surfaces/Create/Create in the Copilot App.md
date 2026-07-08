@@ -26,7 +26,7 @@ Microsoft 365 Copilot app > Create.
 No Copilot add-on needed for core Create. Video generation requires Clipchamp.
 
 ## Related
-[[Create]] · [[Brand Kit for Visuals]] · [[Copilot Chat]]
+[Create](README.md) · [Brand Kit for Visuals](Brand%20Kit%20for%20Visuals.md) · [Copilot Chat](../Copilot%20Chat/README.md)
 
 ---
 [^1]: Get started with Create in the Microsoft 365 Copilot app — https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-create-in-the-microsoft-365-copilot-app (fetched 2026-07-07)

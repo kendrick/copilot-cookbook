@@ -14,10 +14,10 @@ difficulty: "quick win"
 Whether it's a delivery issue you need to smooth over or a renewal conversation, you want to walk in knowing what's open with the account and what the contact has already told you, not find out mid-call that you missed something.
 
 **What you'll use**
-- [[Work-Grounded Copilot Chat]] — summarizes account history from emails, chats, and files
-- [[Copilot Pages]] — turns that summary into a prep sheet you can glance at during the call
-- [[Copilot in Teams Calls]] — live follow-up question suggestions once the call is underway
-- [[Meeting Recap and Intelligent Recap]] — captures next steps afterward
+- [Work-Grounded Copilot Chat](../Surfaces/Copilot%20Chat/Work-Grounded%20Copilot%20Chat.md) — summarizes account history from emails, chats, and files
+- [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) — turns that summary into a prep sheet you can glance at during the call
+- [Copilot in Teams Calls](../Surfaces/Teams/Copilot%20in%20Teams%20Calls.md) — live follow-up question suggestions once the call is underway
+- [Meeting Recap and Intelligent Recap](../Surfaces/Teams/Meeting%20Recap%20and%20Intelligent%20Recap.md) — captures next steps afterward
 
 **Steps**
 1. Ask Copilot Chat to summarize everything about the customer from the last several months.
@@ -40,7 +40,7 @@ open with this account.
 Copilot in Teams Calls needs the Copilot add-on. So does work-grounded chat, since it's the only way Copilot can see the customer's actual history in your mailbox and files rather than answering from general knowledge.
 
 ## Related
-[[Copilot Chat]] · [[Teams]] · [[Copilot Pages]] · [[Build a Copilot Notebook for a Recurring Project Status]]
+[Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Teams](../Surfaces/Teams/README.md) · [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) · [Build a Copilot Notebook for a Recurring Project Status](Build%20a%20Copilot%20Notebook%20for%20a%20Recurring%20Project%20Status.md)
 
 [^1]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)
 [^2]: Microsoft 365 Copilot — top 10 things to try first — https://www.microsoft.com/en-us/microsoft-365-copilot/copilot-top-10-things-to-try-first (fetched 2026-07-07)

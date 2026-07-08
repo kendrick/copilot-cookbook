@@ -22,6 +22,6 @@ tags: [copilot, outlook, summarization]
 
 ## Related
 
-[[Outlook]] · [[Draft an Email With Copilot]] · [[Coaching by Copilot]]
+[Outlook](README.md) · [Draft an Email With Copilot](Draft%20an%20Email%20With%20Copilot.md) · [Coaching by Copilot](Coaching%20by%20Copilot.md)
 
 [^1]: Summarize an email thread with Copilot in Outlook — https://support.microsoft.com/en-us/office/summarize-an-email-thread-with-copilot-in-outlook-a79873f2-396b-46dc-b852-7fe5947ab640 (fetched 2026-07-07)

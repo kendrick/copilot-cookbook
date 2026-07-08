@@ -26,7 +26,7 @@ M365 admin center > Copilot > Control System.
 Admin configuration. No separate license, but admin role assignment is needed.
 
 ## Related
-[[Admin & Governance]] · [[Enterprise Data Protection]] · [[Copilot Licensing Tiers]] · [[Agent Store]]
+[Admin & Governance](README.md) · [Enterprise Data Protection](Enterprise%20Data%20Protection.md) · [Copilot Licensing Tiers](Copilot%20Licensing%20Tiers.md) · [Agent Store](../Agents%20%26%20Agent%20Builder/Agent%20Store.md)
 
 [^1]: Copilot Control System — Security and governance — https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-control-system/security-governance (fetched 2026-07-07)
 [^2]: Agents admin guide — https://learn.microsoft.com/en-us/copilot/microsoft-365/agent-essentials/m365-agents-admin-guide (fetched 2026-07-07)

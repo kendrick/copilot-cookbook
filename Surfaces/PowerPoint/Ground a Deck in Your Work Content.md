@@ -26,7 +26,7 @@ Agent Mode in PowerPoint. The capability started as a preview for adding slides 
 Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 
 ## Related
-[[PowerPoint]] · [[Build a Presentation With Copilot]] · [[Work IQ]]
+[PowerPoint](README.md) · [Build a Presentation With Copilot](Build%20a%20Presentation%20With%20Copilot.md) · [Work IQ](../Search%20%26%20Work%20IQ/Work%20IQ.md)
 
 [^1]: Use Copilot in PowerPoint, Microsoft Support, https://support.microsoft.com/en-us/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d (fetched 2026-07-07)
 [^2]: Microsoft 365 Copilot release notes, Microsoft Learn, https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

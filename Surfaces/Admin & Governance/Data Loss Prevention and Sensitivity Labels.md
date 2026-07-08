@@ -26,6 +26,6 @@ Purview compliance portal for DLP policy configuration; sensitivity labels are s
 Admin configuration via Purview; requires existing DLP/sensitivity label setup to have something to enforce.
 
 ## Related
-[[Admin & Governance]] · [[Enterprise Data Protection]] · [[Copilot Control System]] · [[Minor Updates — Admin & Governance]]
+[Admin & Governance](README.md) · [Enterprise Data Protection](Enterprise%20Data%20Protection.md) · [Copilot Control System](Copilot%20Control%20System.md) · [Minor Updates — Admin & Governance](Minor%20Updates%20%E2%80%94%20Admin%20%26%20Governance.md)
 
 [^1]: Copilot Control System — Security and governance — https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-control-system/security-governance (fetched 2026-07-07)

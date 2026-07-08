@@ -12,8 +12,8 @@ difficulty: "quick win"
 A one-shot chat answer isn't enough here. You want multi-step reasoning across your own files and the open web, with sources you can actually check.
 
 **What you'll use**
-- [[Researcher]] — deep, multi-step research over work and web content, with a source-cited report
-- [[Copilot Pages]] — saves the report to share or build on
+- [Researcher](../Surfaces/Researcher%20%26%20Analyst/Researcher.md) — deep, multi-step research over work and web content, with a source-cited report
+- [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) — saves the report to share or build on
 
 **Steps**
 1. Open the Researcher agent in the M365 Copilot app.
@@ -36,7 +36,7 @@ relocating to Austin, and summarize the key considerations.
 Researcher needs the Copilot add-on and shares a pool of roughly 25 monthly queries with Analyst. Save it for questions that genuinely need multi-step reasoning, not ones a plain search would answer just as well.
 
 ## Related
-[[Researcher & Analyst]] · [[Copilot Pages]] · [[Scan the Market With Chat]]
+[Researcher & Analyst](../Surfaces/Researcher%20%26%20Analyst/README.md) · [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) · [Scan the Market With Chat](Scan%20the%20Market%20With%20Chat.md)
 
 [^1]: Microsoft 365 Copilot — Researcher agent — https://learn.microsoft.com/en-us/microsoft-365/copilot/researcher-agent (fetched 2026-07-07)
 [^2]: Researcher and Analyst are now generally available — https://www.microsoft.com/en-us/microsoft-365/blog/2025/06/02/researcher-and-analyst-are-now-generally-available-in-microsoft-365-copilot/ (fetched 2026-07-07)

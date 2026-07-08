@@ -26,7 +26,7 @@ Schedule from the agent's prompt interface; monitor task status from the Windows
 Copilot add-on; an agent configured to accept scheduled prompts.
 
 ## Related
-[[Cowork]] · [[Copilot Cowork]] · [[Agents & Agent Builder]]
+[Cowork](README.md) · [Copilot Cowork](Copilot%20Cowork.md) · [Agents & Agent Builder](../Agents%20%26%20Agent%20Builder/README.md)
 
 ---
 [^1]: Microsoft 365 Copilot release notes — https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

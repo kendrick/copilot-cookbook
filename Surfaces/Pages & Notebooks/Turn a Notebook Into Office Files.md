@@ -26,7 +26,7 @@ From within a Notebook in the Microsoft 365 Copilot app.
 Copilot or Copilot Chat license + an existing Notebook with content and references.
 
 ## Related
-[[Pages & Notebooks]] · [[Copilot Notebooks]] · [[PowerPoint]]
+[Pages & Notebooks](README.md) · [Copilot Notebooks](Copilot%20Notebooks.md) · [PowerPoint](../PowerPoint/README.md)
 
 ---
 [^1]: Microsoft 365 Copilot release notes — https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes (fetched 2026-07-07)

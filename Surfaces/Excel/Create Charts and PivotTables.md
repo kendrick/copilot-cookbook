@@ -32,6 +32,6 @@ Microsoft 365 Copilot (add-on) license. Not included in Copilot Chat (Basic).
 > Example prompt: Build a PivotTable summarizing revenue by product and quarter
 
 ## Related
-[[Excel]] · [[Analyze Data and Surface Insights]] · [[Build a Presentation With Copilot]]
+[Excel](README.md) · [Analyze Data and Surface Insights](Analyze%20Data%20and%20Surface%20Insights.md) · [Build a Presentation With Copilot](../PowerPoint/Build%20a%20Presentation%20With%20Copilot.md)
 
 [^1]: Get started with Copilot in Excel, Microsoft Support, https://support.microsoft.com/en-us/Excel/copilot/get-started-with-copilot-in-excel (fetched 2026-07-07)

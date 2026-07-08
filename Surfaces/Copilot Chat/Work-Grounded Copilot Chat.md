@@ -33,7 +33,7 @@ Example prompt:
 > Tell me what's new about [topic] organized by emails, chats, and files.[^2]
 
 ## Related
-[[Copilot Chat]] · [[Copilot Chat (Basic)]] · [[Chat Over Your Files]] · [[Choose Your AI Model]]
+[Copilot Chat](README.md) · [Copilot Chat (Basic)](Copilot%20Chat%20%28Basic%29.md) · [Chat Over Your Files](Chat%20Over%20Your%20Files.md) · [Choose Your AI Model](Choose%20Your%20AI%20Model.md)
 
 [^1]: Microsoft 365 Copilot overview, https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview (fetched 2026-07-07)
 [^2]: Copilot: Top 10 things to try first, https://www.microsoft.com/en-us/microsoft-365-copilot/copilot-top-10-things-to-try-first (fetched 2026-07-07)

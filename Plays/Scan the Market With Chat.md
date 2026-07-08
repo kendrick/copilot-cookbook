@@ -12,8 +12,8 @@ difficulty: "quick win"
 Not every market question needs Researcher's multi-step depth. Sometimes you just want a concise summary of what's out there, plus how it lands against your own deals or pricing.
 
 **What you'll use**
-- [[Copilot Chat (Basic)]] — a quick, web-grounded summary of recent news or activity
-- [[Work-Grounded Copilot Chat]] — layers in your own account or deal history if you have the add-on
+- [Copilot Chat (Basic)](../Surfaces/Copilot%20Chat/Copilot%20Chat%20%28Basic%29.md) — a quick, web-grounded summary of recent news or activity
+- [Work-Grounded Copilot Chat](../Surfaces/Copilot%20Chat/Work-Grounded%20Copilot%20Chat.md) — layers in your own account or deal history if you have the add-on
 
 **Steps**
 1. Ask Copilot Chat for a concise summary of recent news or market activity on your topic.
@@ -33,7 +33,7 @@ summarize the pros and cons of each.
 Copilot Chat (Basic) is web-grounded only. It's free with M365, but it can't see your internal pricing, deals, or files. For a scan that blends public news with your own account history, you need Work-Grounded Copilot Chat, which requires the add-on.
 
 ## Related
-[[Copilot Chat]] · [[Researcher & Analyst]] · [[Run a Deep Research Brief]]
+[Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Researcher & Analyst](../Surfaces/Researcher%20%26%20Analyst/README.md) · [Run a Deep Research Brief](Run%20a%20Deep%20Research%20Brief.md)
 
 [^1]: Microsoft 365 Copilot — top 10 things to try first — https://www.microsoft.com/en-us/microsoft-365-copilot/copilot-top-10-things-to-try-first (fetched 2026-07-07)
 [^2]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)

@@ -13,9 +13,9 @@ difficulty: "setup needed"
 If you're running the same prompt on the same cadence, it doesn't need you. Schedule it once and let the digest show up where your team already looks.
 
 **What you'll use**
-- [[Scheduled Prompts and Long-Running Tasks]] — runs the prompt on a recurring schedule
-- [[Work-Grounded Copilot Chat]] — the underlying summarization
-- [[Copilot Pages]] — where the digest lands each time
+- [Scheduled Prompts and Long-Running Tasks](../Surfaces/Cowork/Scheduled%20Prompts%20and%20Long-Running%20Tasks.md) — runs the prompt on a recurring schedule
+- [Work-Grounded Copilot Chat](../Surfaces/Copilot%20Chat/Work-Grounded%20Copilot%20Chat.md) — the underlying summarization
+- [Copilot Pages](../Surfaces/Pages%20%26%20Notebooks/Copilot%20Pages.md) — where the digest lands each time
 
 **Steps**
 1. In Copilot Chat, write the prompt you'd normally run manually each week.
@@ -34,6 +34,6 @@ post the result to the Project Falcon status page.
 Scheduled Prompts and Long-Running Tasks is new as of 2026-07; confirm it's GA rather than still rolling out in your tenant before you rely on it for anything time-sensitive. It also requires the Copilot add-on for work-grounded scheduling.
 
 ## Related
-[[Copilot Chat]] · [[Cowork]] · [[Stand Up a No-Code Team Agent]]
+[Copilot Chat](../Surfaces/Copilot%20Chat/README.md) · [Cowork](../Surfaces/Cowork/README.md) · [Stand Up a No-Code Team Agent](Stand%20Up%20a%20No-Code%20Team%20Agent.md)
 
 [^1]: Microsoft 365 Copilot prompt gallery — https://adoption.microsoft.com/en-us/copilot/prompt-gallery/ (fetched 2026-07-07)

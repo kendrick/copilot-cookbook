@@ -22,6 +22,6 @@ tags: [copilot, outlook, drafting]
 
 ## Related
 
-[[Outlook]] · [[Summarize an Email Thread]] · [[Coaching by Copilot]]
+[Outlook](README.md) · [Summarize an Email Thread](Summarize%20an%20Email%20Thread.md) · [Coaching by Copilot](Coaching%20by%20Copilot.md)
 
 [^1]: Draft an email message with Copilot in Outlook — https://support.microsoft.com/en-us/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b (fetched 2026-07-07)
