@@ -14,6 +14,13 @@
 <!-- The last line is the agent-targeted lever. Be specific. "Don't suggest    -->
 <!-- moving X to Y" beats "don't suggest big refactors."                       -->
 
+## 2026-07-07 — Don't assume links auto-follow a moved or renamed note
+
+**Tried:** N/A — flagging after the wikilink-to-markdown migration.
+**What broke:** Obsidian auto-updates `[[wikilinks]]` on rename, but the vault now uses path-based relative markdown links, which it does not auto-fix.
+**Why we backed out:** We traded auto-rename for Loop portability on purpose.
+**Don't suggest:** Moving or renaming a note by hand and assuming its links still resolve. Recompute the relative links (the reorg used a script for this) and re-run `scripts/verify_graph.py` after any move.
+
 ## 2026-07-07 — Don't space-wrap em dashes
 
 **Tried:** Writing prose with spaced em dashes (`word — word`).

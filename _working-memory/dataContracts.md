@@ -15,7 +15,7 @@ source: <exact URL>
 fetched: <date>
 tags: [copilot, <surface>, <theme>]
 ---
-# <Feature name>              # = filename = wikilink target, exactly
+# <Feature name>              # filename = title; lives in Surfaces/<Surface>/
 
 **What it is** — one or two plain-language sentences.
 **Why it matters** — business/personal value in exec terms.
@@ -29,30 +29,30 @@ Example prompt:
 > <copy-pasteable prompt>
 
 ## Related
-[[Category]] · [[Related feature]]
+[<Surface>](README.md) · [Related feature](Related%20feature.md)   # relative md links, URL-encoded
 ```
 
-Genuinely trivial tweaks roll into a per-category `Minor Updates — <Surface>.md` note (`tier: minor`) rather than getting their own note.
+Genuinely trivial tweaks roll into a per-surface `Minor Updates — <Surface>.md` note (`tier: minor`) rather than getting their own note.
 
-## Play note (in `Plays/`)
+## Recipe note (in `Recipes/`)
 ```
 ---
-type: play
+type: recipe
 scenario: <the business problem, in exec language>
-uses: [[Feature]], [[Feature]]     # capabilities it chains
+uses: [[Feature]], [[Feature]]     # capabilities it chains; wikilinks kept in frontmatter
 roles: [exec, sales, finance, ops]
 difficulty: quick win | setup needed
 ---
 # <Task-phrased title>
 
 **The ask** — the problem as an exec would state it.
-**What you'll use** — [[Feature]] (+ [[Feature]] if chained across apps).
+**What you'll use** — [Feature](../Surfaces/<Surface>/Feature.md) (+ another if chained across apps).
 **Steps** — numbered, concrete, spanning apps where needed.
 **Prompts** — copy-pasteable, in code blocks.
 **Watch out for** — license/preview gotchas, quality caveats.
 
 ## Related
-[[Feature]] · [[Play]]
+[Feature](../Surfaces/<Surface>/Feature.md) · [Recipe](Other%20Recipe.md)
 ```
 
 ## `_sources.md` entries

@@ -14,6 +14,14 @@ Each entry follows this shape:
 **Alternatives considered:** What was rejected, and why.
 ```
 
+## 2026-07-07: Restructure into Surfaces/ folders and switch to markdown links
+
+**Source:** commits 9c70a20 (reorganize), c30c95c (convert links), c936f4e (rename)
+
+**Context:** The root held 80+ flat notes — unnavigable, and a poor fit for exporting to Microsoft Loop, whose page hierarchy wants a tree.
+**Decision:** Move every feature note under `Surfaces/<Surface>/` with the category note as that folder's `README.md`; convert body `[[wikilinks]]` to relative markdown links so links resolve by path (survives Loop export, and lets each folder reuse the `README.md` name); rename `Plays/` to `Recipes/` to fit the cookbook framing. Sequenced as pure `git mv` commits so history follows the files.
+**Alternatives considered:** Stay flat and lean on Obsidian MOCs/tags (rejected — doesn't fix the file tree and doesn't pre-build the Loop page tree). Keep wikilinks (rejected — Loop ignores them, and README name collisions block the folder-index pattern).
+
 ## 2026-07-07: Genesis build of the Copilot Cookbook KB
 
 **Source:** commit `d455182` (single commit on `main`)
