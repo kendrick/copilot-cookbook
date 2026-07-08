@@ -5,10 +5,13 @@ A cross-linked knowledge base of Microsoft 365 Copilot. It answers two different
 - **"What can Copilot do?"** → the feature catalog, organized by where each capability lives.
 - **"How do I get _X_ done?"** → the recipes, organized by the problem a user states out loud.
 
-Every claim traces to a live Microsoft page, fetched 2026-07-07. It's built for Obsidian: open the vault and follow the links, or start from a map:
+Every claim traces to a live Microsoft page, fetched 2026-07-07. It's built for Obsidian: open the vault and follow the links, or start from one of these maps.
+
+## Start here
 
 - **[Copilot Features MOC](Surfaces/README.md)** — every capability, grouped by surface (Word, Excel, Chat, Agents, and the rest). Newest features are folded into their surface and tagged `new: true`, not siloed.
 - **[Recipes](Recipes/README.md)** — scenario recipes grouped by business need: analyze data, catch up on what I missed, draft from messy inputs, prep for a meeting, build a deck, automate a recurring task, research a topic.
+- **[Copilot Licensing Tiers](Surfaces/Admin%20%26%20Governance/Copilot%20Licensing%20Tiers.md)** — the free-versus-paid line (Chat Basic vs the Copilot add-on) that runs through every note.
 
 ## How it's organized
 
