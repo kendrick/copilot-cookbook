@@ -5,7 +5,7 @@ A cross-linked knowledge base of Microsoft 365 Copilot. It answers two different
 - **"What can Copilot do?"** → the feature catalog, organized by where each capability lives.
 - **"How do I get _X_ done?"** → the recipes, organized by the problem a user states out loud.
 
-Every claim traces to a live Microsoft page, fetched 2026-07-07. It's built for Obsidian: open the vault and follow the links, or start from one of these maps.
+Every claim traces to a live Microsoft docs page, fetched 2026-07-07.
 
 ## Start here
 
