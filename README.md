@@ -1,3 +1,21 @@
+```
+      ▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓
+    ▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓
+   ▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▒
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▒▒▒▒▒
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▓     ▒▒▒▒▒▒▒▒▒▒
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒     ▓▓▓▓▓▓▓▓▓▓▓▓
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒     ▓▓▓▓▓▓▓▓▓▓▓▓▓
+▒▒▒▒▒▒▒░░░░░░      ▒▓▓▓▓▓▓▓▓▓▓▓▓
+░░░░░░░░░░░░░     ▒▒▒▒▒▓▓▓▓▓▓▓▓
+░░░░░░░░░░░░     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+ ░░░░░░░░░░     ▓▒▒▒▒▒▒▒▒▒▒▒▒▒
+       ░░▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+        ▒▒▒▒▒▓▓▓░░▒▒▒▒▒▒▒▒▒▒▒
+         ▒▒▒▓▓▓░░░░░░▒▒▒▒▒▒▒
+          ▓▓▓▓░░░░░░░░░░░░
+```
+
 # Copilot Cookbook
 
 A cross-linked knowledge base of Microsoft 365 Copilot. It answers two different questions:
@@ -5,7 +23,11 @@ A cross-linked knowledge base of Microsoft 365 Copilot. It answers two different
 - **"What can Copilot do?"** → the feature catalog, organized by where each capability lives.
 - **"How do I get _X_ done?"** → the recipes, organized by the problem a user states out loud.
 
-Every claim traces to a live Microsoft docs page, fetched 2026-07-07.
+It's for anyone who works in Microsoft 365 and wants a straight answer about Copilot, whether you're sizing licenses before a rollout or just trying to get one task done today.
+
+Today that's 67 feature notes across 14 surfaces and 18 task recipes. Every claim traces to a live Microsoft docs page (fetched 2026-07-07).
+
+_A personal project built from public Microsoft documentation, not affiliated with or endorsed by Microsoft. Where a note and its linked source disagree, the source wins._
 
 ## Start here
 
@@ -31,4 +53,4 @@ The distinction between Copilot Chat (Basic) and the Copilot add-on runs through
 
 ## Refreshing it
 
-Copilot ships monthly. Run `scripts/staleness.py` first to see what's due: overdue sources, `new` badges to retire, and features to re-check for GA. To update: re-fetch the pages in [\_sources](_sources.md), diff against the `fetched` dates, and fold new capabilities into their category with `new: true`. The two passes that built this — establish the full surface, then layer in the newest month — are the same two you'd repeat.
+Copilot ships monthly. Run `scripts/staleness.py` first to see what's due: overdue sources, `new` badges to retire, and features to re-check for GA. To update: re-fetch the pages in [\_sources](_sources.md), diff against the `fetched` dates, and fold new capabilities into their category with `new: true`. The two passes that built this—establish the full surface, then layer in the newest month—are the same two you'd repeat. `scripts/stats.py` regenerates the counts this README cites.
