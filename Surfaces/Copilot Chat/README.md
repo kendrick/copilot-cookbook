@@ -16,6 +16,7 @@ Most of the confusion in this category traces back to one split: a free, web-gro
 - [Generate Images in Copilot Chat](Generate%20Images%20in%20Copilot%20Chat.md) — built-in image generation.
 - [Vision in Copilot](Vision%20in%20Copilot.md) — screen and camera visual context, rolling out.
 - [Open Files and PDFs in Chat](Open%20Files%20and%20PDFs%20in%20Chat.md) — open Office docs and PDFs directly in chat.
+- [Prompt Gallery](Prompt%20Gallery.md) — a library of ready-made prompts to browse, save, and share.
 - [Minor Updates — Copilot Chat](Minor%20Updates%20%E2%80%94%20Copilot%20Chat.md) — smaller recent tweaks.
 
 ## Related categories

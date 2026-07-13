@@ -17,8 +17,11 @@ Looking for "how do I solve *X*"? Start from the [Recipes](../Recipes/README.md)
 - [Excel](Excel/README.md) — analyze data, formulas, charts, Agent Mode
 - [PowerPoint](PowerPoint/README.md) — build decks from a prompt or your work content, generate images
 - [Outlook](Outlook/README.md) — summarize threads, draft, coaching, chat across the inbox
-- [Teams](Teams/README.md) — meeting recap, in-meeting Copilot, chat catch-up, calls
+- [Teams](Teams/README.md) — meeting recap, in-meeting Copilot, the Facilitator and Interpreter agents, chat catch-up, calls
 - [OneNote & Loop](OneNote%20%26%20Loop/README.md) — summarize notes, extract tasks, draft; collaborative pages
+- [SharePoint](SharePoint/README.md) — author sites and pages from a prompt; a per-site agent over the content
+- [Planner](Planner/README.md) — draft a plan from a description; an agent that generates tasks and status
+- [Viva Engage](Viva%20Engage/README.md) — draft and refine org-wide announcements, posts, and storylines
 
 ## The Copilot app
 
@@ -28,6 +31,7 @@ Looking for "how do I solve *X*"? Start from the [Recipes](../Recipes/README.md)
 - [Create](Create/README.md) — images, posters, video, and forms from a description
 - [Search & Work IQ](Search%20%26%20Work%20IQ/README.md) — semantic search across your tenant and the intelligence layer under it
 - [Cowork](Cowork/README.md) — the agentic executor that plans and does multi-step work
+- [Mobile](Mobile/README.md) — the Microsoft 365 Copilot app on iOS and Android, voice-first
 
 ## Extend & govern
 
@@ -43,5 +47,6 @@ Capabilities added or expanded in roughly the last 90 days, folded into the cate
 - [Turn a Notebook Into Office Files](Pages%20%26%20Notebooks/Turn%20a%20Notebook%20Into%20Office%20Files.md) · [Ground a Deck in Your Work Content](PowerPoint/Ground%20a%20Deck%20in%20Your%20Work%20Content.md) · [Agent Mode in Excel](Excel/Agent%20Mode%20in%20Excel.md)
 - [Copilot Edits Your Document](Word/Copilot%20Edits%20Your%20Document.md) · [Audio Overview in Word](Word/Audio%20Overview%20in%20Word.md) · [Generate Images in PowerPoint](PowerPoint/Generate%20Images%20in%20PowerPoint.md)
 - [Brand Kit for Visuals](Create/Brand%20Kit%20for%20Visuals.md) · [Copilot Chat Across Your Inbox](Outlook/Copilot%20Chat%20Across%20Your%20Inbox.md)
+- [Copilot in SharePoint](SharePoint/Copilot%20in%20SharePoint.md) · [Copilot in Planner](Planner/Copilot%20in%20Planner.md) · [Planner Agent](Planner/Planner%20Agent.md) · [Facilitator Agent](Teams/Facilitator%20Agent.md)
 
 See [_sources](../_sources.md) for every page behind these notes, with fetch dates for diffing on a re-run.

@@ -14,6 +14,14 @@ Each entry follows this shape:
 **Alternatives considered:** What was rejected, and why.
 ```
 
+## 2026-07-13: Recipe Batch 2 — 28 new recipes, 4 new surfaces, 9 new feature notes
+
+**Context:** The catalog had 18 recipes against 67 feature notes, and 28 notes had no recipe touching them; three whole surfaces (Admin & Governance, Search & Work IQ, Create) had zero recipe coverage. Real Copilot surfaces (SharePoint, Planner, mobile, the Facilitator/Interpreter meeting agents, Viva Engage) weren't in the vault at all. The audience stays exec-first but widens to PMs/ICs, HR/managers, sales, and Copilot champions.
+
+**Decision:** Add 28 recipes (18→46) across five new business-need groups (Run a better meeting, Create visuals and media, Find what you need, Get better answers from Copilot, Roll out Copilot) plus additions to every existing group. Add four surfaces (SharePoint, Planner, Mobile, Viva Engage), the Facilitator and Interpreter Teams notes, and a Prompt Gallery note — nine feature notes, all traced to Microsoft docs fetched 2026-07-13. A research sweep (Haiku fetch agents) verified every at-risk claim before it shipped: forms-in-Create (true), Coaching Agents role-play (true, via the Learning agent's Skillsoft CAISY simulations), Prompt Coach (exists), Vision surfaces (desktop screen + mobile camera, rolling out). Two findings changed the plan: Audio Overview is NOT on the Word mobile app, so the listening recipe stays desktop-only rather than merging into mobile triage; and the Copilot Dashboard cleanly separates Adoption from Impact, so "who gets a seat" and "prove the value" became two recipes instead of one. The meeting-to-plan recipe was re-chained to Facilitator→Planner after confirming Facilitator syncs explicit tasks to Planner automatically (auto-captured ones need "Accept to sync") — there is no automatic recap→Planner conversion.
+
+**Alternatives considered:** Fold the two rollout recipes into one (rejected — the dashboard genuinely tells two stories). Chain the onboarding recipe through Agent Builder like the existing team-agent recipe (rejected — SharePoint's ready-made site agents are the cleaner fit and avoid duplicating "Stand Up a No-Code Team Agent"). Keep the Viva Engage announcement recipe cut (rejected — Viva Engage came back as a live, documented surface, so an org-wide announcement is genuinely distinct from the one-to-one sensitive-email recipe).
+
 ## 2026-07-07: Add staleness.py so refreshes start from a triage worklist
 
 **Source:** commit 822fd8b
