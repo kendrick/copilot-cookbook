@@ -89,3 +89,28 @@ All fetched **2026-07-07**. Official Microsoft domains only. Individual notes fo
 | Empower your workforce with Copilot (role training paths) | https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/ | 2026-01-27 |
 | Microsoft Copilot Scenario Library (Day-in-the-Life) | https://adoption.microsoft.com/en-us/scenario-library/ | — |
 | Microsoft 365 Copilot adoption hub | https://adoption.microsoft.com/en-us/copilot/ | — |
+
+## New surfaces & agents (Batch 2)
+
+All fetched **2026-07-13**.
+
+| Page | URL | Last updated |
+|---|---|---|
+| Get started with Copilot in SharePoint | https://learn.microsoft.com/en-us/sharepoint/copilot-in-sharepoint-get-started | 2026-06-25 |
+| Authoring with AI in SharePoint — an overview | https://support.microsoft.com/en-us/sharepoint/copilot-in-sharepoint/authoring-with-ai-in-sharepoint-an-overview | — |
+| Get started with agents in SharePoint | https://support.microsoft.com/en-us/sharepoint/copilot-in-sharepoint/get-started-with-agents-in-sharepoint | — |
+| FAQ about Copilot in Planner (preview) | https://support.microsoft.com/en-us/office/frequently-asked-questions-about-copilot-in-planner-preview-40710220-75f3-4a61-897c-54a1052155c4 | — |
+| Get started with Copilot in Planner (preview) | https://support.microsoft.com/en-us/planner/get-started-with-copilot-in-planner-preview | — |
+| FAQ about Planner Agent | https://support.microsoft.com/en-us/office/frequently-asked-questions-about-planner-agent-ab2bc39a-edec-4d4d-8e86-2cc927870096 | — |
+| Access Planner Agent | https://support.microsoft.com/en-us/planner/copilot/access-planner-agent | — |
+| Get started with the Microsoft 365 Copilot mobile app | https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-the-microsoft-365-copilot-mobile-app | 2026-02 |
+| Facilitator in Microsoft Teams meetings | https://support.microsoft.com/en-us/teams/copilot/facilitator-in-microsoft-teams-meetings | — |
+| Interpreter in Microsoft Teams meetings and calls | https://support.microsoft.com/en-us/office/interpreter-in-microsoft-teams-meetings-and-calls-c7efe2bb-535d-42ab-a5c4-d2d91619b46d | — |
+| Copilot Prompt Gallery (Learn) | https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-prompt-gallery | — |
+| Agents built by Microsoft (Prompt Coach) | https://support.microsoft.com/en-us/microsoft-365-copilot/agents-built-by-microsoft | — |
+| FAQ about Create in the Copilot app (forms) | https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-create-in-the-microsoft-365-copilot-app | — |
+| How Vision in Microsoft 365 Copilot works | https://support.microsoft.com/en-us/microsoft-365-copilot/how-vision-microsoft-365-works | — |
+| Learning agent role-play with Skillsoft CAISY | https://learn.microsoft.com/en-us/viva/learning/learning-agent-roleplay-skillsoft | — |
+| Copilot Dashboard in Viva Insights | https://learn.microsoft.com/en-us/viva/insights/org-team-insights/copilot-dashboard | — |
+| Set up Microsoft 365 Copilot in Viva Engage | https://learn.microsoft.com/en-us/viva/engage/configure-microsoft-365-copilot-in-viva-engage | 2025-07-31 |
+| Get started with Microsoft 365 Copilot in Viva Engage | https://support.microsoft.com/en-us/viva/engage/get-started-with-microsoft-365-copilot-in-viva-engage | — |

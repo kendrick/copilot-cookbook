@@ -3,6 +3,8 @@
 Copilot in Teams follows you from live meetings into chat and calls — catching you up in real time, recapping after the fact, and answering questions grounded in what was actually said.
 
 - [Copilot During a Meeting](Copilot%20During%20a%20Meeting.md)
+- [Facilitator Agent](Facilitator%20Agent.md)
+- [Interpreter in Meetings](Interpreter%20in%20Meetings.md)
 - [Meeting Recap and Intelligent Recap](Meeting%20Recap%20and%20Intelligent%20Recap.md)
 - [Copilot in Teams Chat](Copilot%20in%20Teams%20Chat.md)
 - [Copilot in Teams Calls](Copilot%20in%20Teams%20Calls.md)
