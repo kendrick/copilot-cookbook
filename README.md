@@ -25,14 +25,14 @@ A cross-linked knowledge base of Microsoft 365 Copilot. It answers two different
 
 It's for anyone who works in Microsoft 365 and wants a straight answer about Copilot, whether you're sizing licenses before a rollout or just trying to get one task done today.
 
-Today that's 67 feature notes across 14 surfaces and 18 task recipes. Every claim traces to a live Microsoft docs page (fetched 2026-07-07).
+Today that's 76 feature notes across 18 surfaces and 46 task recipes. Every claim traces to a live Microsoft docs page (fetched 2026-07-07, with a batch of new surfaces and recipes added 2026-07-13).
 
 _A personal project built from public Microsoft documentation, not affiliated with or endorsed by Microsoft. Where a note and its linked source disagree, the source wins._
 
 ## Start here
 
 - **[Copilot Features MOC](Surfaces/README.md)** — every capability, grouped by surface (Word, Excel, Chat, Agents, and the rest). Newest features are folded into their surface and tagged `new: true`, not siloed.
-- **[Recipes](Recipes/README.md)** — scenario recipes grouped by business need: analyze data, catch up on what I missed, draft from messy inputs, prep for a meeting, build a deck, automate a recurring task, research a topic.
+- **[Recipes](Recipes/README.md)** — scenario recipes grouped by business need: analyze data, catch up, draft from messy inputs, prep for and run meetings, build decks and visuals, automate work, find what you need, research a topic, get better answers, and roll out Copilot.
 - **[Copilot Licensing Tiers](Surfaces/Admin%20%26%20Governance/Copilot%20Licensing%20Tiers.md)** — the free-versus-paid line (Chat Basic vs the Copilot add-on) that runs through every note.
 
 ## How it's organized
