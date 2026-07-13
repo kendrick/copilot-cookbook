@@ -20,8 +20,8 @@ An Obsidian knowledge base of Microsoft 365 Copilot, built for an executive-coac
 - `_working-memory/`, `scripts/` — working-memory-kit scaffolding
 
 ## Key Constraints
-- Every claim traces to a live Microsoft page fetched 2026-07-07.
+- Every claim traces to a live Microsoft page, each carrying its `fetched` date in `_sources.md` (2026-07-07 for the genesis catalog, 2026-07-13 for the Batch 2 additions).
 - The link graph must stay at 0 broken links and 0 orphans — check with `scripts/verify_graph.py` after any move or new note.
 - Links are relative markdown links resolved by path, so filenames no longer need to be globally unique (every surface folder reuses `README.md`). The `_research/MANIFEST.md` name registry is legacy from the wikilink era and no longer gates linking.
-- `Recipes/README.md` groups recipes by **business need** (analyze data, catch up, draft from messy inputs, prep for a meeting, build a deck, automate a recurring task, research a topic), never by app — that grouping is the fast lookup when a leader states a problem.
+- `Recipes/README.md` groups recipes by **business need** (analyze data, catch up, draft from messy inputs, prep for a meeting, run a better meeting, build a deck, create visuals and media, automate a recurring task, find what you need, research a topic, get better answers from Copilot, roll out Copilot), never by app — that grouping is the fast lookup when a leader states a problem.
 - Two recipes are load-bearing for the coaching curriculum and must survive any rebuild: "Build a Copilot Notebook for a Recurring Project Status" and "Draft an Excel Pivot From a Chat-Generated Prompt" (the latter must show BOTH prompts — the one asking Chat to write the Excel prompt, and the resulting prompt pasted into Excel).
